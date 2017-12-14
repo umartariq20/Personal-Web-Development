@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #f3f3f3;
+    background-repeat: repeat;
+    font-family: 'Lato','Arial',sans-serif;
+    text-align: left;
+}
+
+cite img {
+    height:225px;
+    width:220px;
+    border-radius:50%;
+    border: 1px solid rgb(230, 230, 230);
+    vertical-align: middle;
+    margin-right: 50px;
+}
+
+cite { 
+    font-weight: 400;
+    text-align: left;
+    font-family: 'Lato','Arial',sans-serif;
+    color: #4B4F56;
+    font-size: 50px;
+    display: block;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+
+.icon ul {
+    list-style:none;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+
+.icon-nav li {
+    display: inline-block;  
+    margin-left: 5px;
+}
+
+.icon-big {
+    font-size: 50px;
+    display: block;
+    padding: 15px;
+    color: #000;
+}
+
+.icon {
+    margin-left: 10px;
+    float: left;
+}
+
+
+.icon-big:link,
+.icon-big:visited {
+    transition: color 0.2s;
+}
+
+.github:hover,
+.github:active {
+    color:#033147;
+    
+}
+
+
+.linkedin:hover,
+.linkedin:active {
+    color: #00A0DC;
+}
+
+
+
+.instagram:hover,
+.instagram:active {
+    color: #E1306C;
+}
+
+
+
+.document:hover,
+.document:active {
+    color: #FF0000;
+}
+
+.title-bar {
+    margin-top: 0px;
+    background-color: #cecece;
+    border-radius: 4px 4px 0px 0px;
+    padding: 1px 9px 0px 6px;
+    height: 18px;
+}
+
+#large-box {
+    margin-top: 0px;
+    background-color: #333333;
+    height: 375px;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 4px 4px;
+}
+
+.full-box {
+    margin-left: 550px;
+    margin-right: 20px;
+    max-width: 650px;
+}
+
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 4px 7px 1px 0px;
+    float: left;
+}
+
+.red {
+    background-color: #fc5c5c;
+    border: solid 1px #E14946;
+}
+
+
+.yellow {
+    background-color: #fdbc40;
+    border: solid 1px #e0a234;
+}
+
+
+.green {
+    background-color: #34c749;
+    border: solid 1px #27ad36;
+}
+
+
+.string {
+    color: #FFF1B7;
+}
+
+.input {
+    color: #C7C7C7;
+}
+
+.text {
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+span {
+    color: #C7C7C7;
+}
+
+a:hover {
+    color:#87ceeb;
+    border-bottom: 1px solid #87ceeb;
+}
+
+a:link, 
+a:visited { 
+    text-decoration: none;
+}
+
+
+
+
